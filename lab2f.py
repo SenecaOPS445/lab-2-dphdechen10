@@ -5,8 +5,6 @@
  
 import sys 
 
-time = 10
-
 timer = int(sys.argv[1])
 while timer != 0:
     print(str(timer))
